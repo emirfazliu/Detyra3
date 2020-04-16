@@ -1,0 +1,57 @@
+.container{
+	
+	background-color: rgb(10, 166, 163);
+	min-width: 200px;
+	min-height: 200px;
+	max-height: 300px;
+	max-width: 200px;
+	
+	margin-left: 580px;
+	
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+	margin-top: 50px;
+	
+}
+body{
+	background-color: rgb(64, 237, 185);
+	
+	
+}
+img{
+	display: inline;
+	
+	
+}
+
+.ul1{
+	display: inline;
+	padding-left: 900px;
+}
+li{
+
+
+	display: inline;
+}
+
+h4{
+	display: inline;
+	padding-right: 20px;
+
+}
+.btn1{
+	border-radius: 15px;
+	background-color: rgb(83,201,81);
+	margin-top: 10px;
+	width: 60px;
+}
+
+.lista{
+	color: red;
+}
+
+footer{
+	text-align: center;
+	margin-top: 200px;
+}

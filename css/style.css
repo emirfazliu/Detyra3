@@ -1,0 +1,32 @@
+.tituj{
+	color: red;
+}
+li>h1{
+	background-color: red;
+}
+ul>li{
+	background-color: yellow;
+}
+li:hover{
+	background-color: purple;
+}
+ul li:first-child{
+	font-size: 20px;
+	font-family: cursive;
+}
+
+ul ol:nth-child(2){
+	font-family: sans-serif;
+}
+
+.container{
+	margin-left: 40px;
+	padding-left: 60px;
+	background-color: grey;
+}
+
+img{
+	width: 100px;
+	min-width: 100px;
+	position: static;
+}
